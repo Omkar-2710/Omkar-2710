@@ -14,7 +14,7 @@ I believe in learning by building, documenting, and sharing real-world security 
 
 # 🚀 About Me
 
-- 🎓 Computer Science Graduate
+- 🎓 Computer Engineer Graduate
 - 🔐 Cybersecurity professional focused on Cloud Security
 - ☁️ Currently learning Microsoft Azure Security
 - 📊 Building SIEM and Threat Detection projects using Splunk
