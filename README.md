@@ -1,48 +1,18 @@
 # Hi, I'm Omkar Mali 👋
 
-## Cloud Security Analyst | Soc Analyst | Azure | Splunk | Cybersecurity
+##  Security Analyst | Soc Analyst | Splunk | Cybersecurity
 
 Welcome to my GitHub profile!
 
-I am a Computer Science graduate with experience in Application Monitoring and Testing, currently transitioning into the field of Cloud Security and Security Operations.
+I am a **Certified Ethical Hacker (CEH)** with a strong interest in **Blue Team operations**, **Security Operations Center (SOC)**, **threat detection**, and **incident response**.
 
-My focus is on building practical cybersecurity skills through hands-on labs, cloud security projects, SIEM investigations, and automation.
+I believe in learning through hands-on practice. This GitHub profile documents my journey as I build practical cybersecurity skills through labs, Splunk investigations, networking, Windows event log analysis, and detection engineering.
 
-I believe in learning by building, documenting, and sharing real-world security projects.
-
----
-
-# 🚀 About Me
-
-- 🎓 Computer Engineer Graduate
-- 🔐 Cybersecurity professional focused on Cloud Security
-- ☁️ Currently learning Microsoft Azure Security
-- 📊 Building SIEM and Threat Detection projects using Splunk
-- 🛡️ Interested in SOC Operations, Incident Response, and Threat Hunting
-
-
----
-
-# 🛡️ Cybersecurity Journey
-
-My current learning path:
+My goal is to begin my career as a **SOC Analyst**, where I can contribute to detecting, investigating, and responding to security incidents while continuing to grow as a cybersecurity professional.
 
 ---
 
 # 🧰 Technical Skills
-
-## Cloud Security
-
-☁️ Microsoft Azure
-
-- Azure Virtual Machines
-- Azure Networking
-- Network Security Groups
-- Microsoft Entra ID
-- RBAC
-- Azure Monitor
-- Defender for Cloud
-
 
 ## SIEM & Security Operations
 
@@ -89,7 +59,7 @@ Currently focusing on:
 - Cloud Security
 - Security Operations
 
-Completed / Preparing:
+Completed 
 
 - CEH (Certified Ethical Hacker)
 
@@ -97,7 +67,7 @@ Completed / Preparing:
 
 # 📈 Current Goals
 
-My goal is to become a Cloud Security Analyst who can:
+My goal is to become a Security Analyst who can:
 
 ✅ Monitor cloud environments  
 ✅ Investigate security alerts  
