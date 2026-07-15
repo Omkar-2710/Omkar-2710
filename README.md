@@ -1,4 +1,4 @@
-# Hi, I'm Omkar Mali 👋
+# Hi, I'm Omkar 👋
 
 ##  Security Analyst | Soc Analyst | Splunk | Cybersecurity
 
