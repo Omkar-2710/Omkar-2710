@@ -1,82 +1,86 @@
 # Hi, I'm Omkar 👋
 
-##  Security Analyst | Soc Analyst | Splunk | Cybersecurity
+### Aspiring SOC Analyst L1 | CEH Certified | Splunk | SIEM | Cybersecurity
 
 Welcome to my GitHub profile!
 
-I am a **Certified Ethical Hacker (CEH)** with a strong interest in **Blue Team operations**, **Security Operations Center (SOC)**, **threat detection**, and **incident response**.
+I'm a cybersecurity enthusiast interested in Security Operations, threat detection and incident investigation.
 
-I believe in learning through hands-on practice. This GitHub profile documents my journey as I build practical cybersecurity skills through labs, Splunk investigations, networking, Windows event log analysis, and detection engineering.
+I have completed the Certified Ethical Hacker (CEH) certification and am building practical SOC Analyst skills through hands-on projects and security labs.
 
-My goal is to begin my career as a **SOC Analyst**, where I can contribute to detecting, investigating, and responding to security incidents while continuing to grow as a cybersecurity professional.
+My main focus is learning how to monitor security events, investigate suspicious activities and understand how SOC teams handle security alerts.
 
 ---
 
-# 🧰 Technical Skills
+## 🛠️ Technical Skills & Tools
 
-## SIEM & Security Operations
-
-📊 Splunk
-
-- SPL Queries
+### SIEM & Security Monitoring
+- Splunk Enterprise
+- SPL (Search Processing Language)
 - Log Analysis
-- Security Monitoring
-- Dashboard Creation
-- Alert Investigation
+- Windows Security Event Log Analysis
 
+### Security Knowledge
+- Authentication and Authorization
+- Incident Response Basics
+- Threat Detection
+- MITRE ATT&CK Fundamentals
+- Vulnerability Assessment
 
-## Security Knowledge
-
-🔐 Cybersecurity
-
-- CIA Triad
-- Authentication & Authorization
-- IAM Concepts
-- Vulnerability Management
-- Incident Response
-- Threat Hunting
-- MITRE ATT&CK
-
-
-## Systems & Networking
-
-- Linux
+### Operating Systems & Networking
 - Windows
+- Linux
 - TCP/IP
 - DNS
 - HTTP/HTTPS
-- Firewalls
-- Network Troubleshooting
+- Network Fundamentals
+
+### Security Tools
+- Nmap
+- Wireshark
+- Metasploit
+- Wazuh
 
 ---
 
-# 📚 Certifications & Learning
+## 🔬 Hands-on Projects
 
-Currently focusing on:
+### 1. Brute Force Investigation Using Splunk SIEM
 
-- Microsoft Azure Security
-- Splunk
-- Cloud Security
-- Security Operations
+Investigated Windows authentication events using Splunk and SPL queries.
 
-Completed 
+**What I practised:**
+- Analysing Event ID 4624 and 4625
+- Identifying repeated failed login attempts
+- Investigating suspicious source IP addresses
+- Correlating failed and successful login events
+- Documenting investigation findings
 
-- CEH (Certified Ethical Hacker)
-
----
-
-# 📈 Current Goals
-
-My goal is to become a Security Analyst who can:
-
-✅ Monitor cloud environments  
-✅ Investigate security alerts  
-✅ Perform threat analysis  
-✅ Build detection rules  
-✅ Automate security operations  
+**[View Project on GitHub](https://github.com/Omkar-2710/Splunk-Brute-Force-Investigation)**
 
 ---
 
+## 🎓 Certifications
 
+- Certified Ethical Hacker (CEH)
 
-⭐ Thanks for visiting my profile!
+---
+
+## 📚 Currently Learning
+
+- Splunk and SPL
+- SOC Alert Investigation
+- Windows Security Logs
+- Wazuh SIEM
+- Network Traffic Analysis
+- Threat Hunting Fundamentals
+
+---
+
+## 🎯 Career Goal
+
+I'm working towards becoming a SOC Analyst L1 and developing the practical skills required to monitor, investigate and escalate security alerts in an enterprise SOC environment.
+
+---
+
+Thanks for visiting my profile! ⭐
